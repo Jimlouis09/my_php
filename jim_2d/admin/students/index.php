@@ -61,7 +61,7 @@
             <div>
                 <h2>Student Accounts</h2>
 
-                <a href="dashboard.html">
+                <a href="../dashboard.php">
                     ← Dashboard
                 </a>
             </div>
